@@ -7,7 +7,7 @@ Fall 2020
 Sharif university
 
 # Contents
-   
+
  - [Projects](https://github.com/saaz742/Data-Structures-and-Algorithms/tree/main/Projects)
     - Project 0: [Maximum sum](https://github.com/saaz742/Data-Structures-and-Algorithms/tree/main/Projects/0)
         - [Document](https://github.com/saaz742/Data-Structures-and-Algorithms/blob/main/Projects/0/DS0.pdf)
@@ -28,3 +28,8 @@ Sharif university
 - [Challenge](https://github.com/saaz742/Data-Structures-and-Algorithms/tree/main/Challenge)
    - [Phase 1](https://github.com/saaz742/Data-Structures-and-Algorithms/blob/main/Challenge/chal1.java)
    - [Phase 2](https://github.com/saaz742/Data-Structures-and-Algorithms/blob/main/Challenge/chal2.java)
+
+- [Board (26)](https://github.com/saaz742/Data-Structures-and-Algorithms/tree/main/Board)
+- [Recaps](https://github.com/saaz742/Data-Structures-and-Algorithms/tree/main/Recap)
+- [Exam](https://github.com/saaz742/Data-Structures-and-Algorithms/tree/main/Exam)
+- [HWs (14)](https://github.com/saaz742/Data-Structures-and-Algorithms/tree/main/Practice)
